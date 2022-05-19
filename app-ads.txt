@@ -80,3 +80,4 @@ pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
 pubnative.net, 1006955, RESELLER, d641df8625486a7b
 pubnative.net, 1007040, RESELLER, d641df8625486a7b
 pubnative.net, 1006955, RESELLER, d641df8625486a7b
+facebook.com, 489932166244478, RESELLER, c3e20eee3f780d68
